@@ -1,0 +1,414 @@
+{
+    "page": 5,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 238,
+            "original_language": "en",
+            "original_title": "The Godfather",
+            "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+            "popularity": 55.6663,
+            "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+            "release_date": "1972-03-14",
+            "softcore": false,
+            "title": "The Godfather",
+            "video": false,
+            "vote_average": 8.689,
+            "vote_count": 23819
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7AArZYRp6zGtbvSbbqoHn9xFp0L.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 1607127,
+            "original_language": "en",
+            "original_title": "One Last Shot",
+            "overview": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
+            "popularity": 55.7477,
+            "poster_path": "/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+            "release_date": "2026-09-22",
+            "softcore": false,
+            "title": "One Last Shot",
+            "video": false,
+            "vote_average": 7.368,
+            "vote_count": 140
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1jANqIbqrWJZb8GM5Kb3L6U8iHi.jpg",
+            "genre_ids": [
+                53,
+                36,
+                80,
+                18
+            ],
+            "id": 1380417,
+            "original_language": "en",
+            "original_title": "By Any Means",
+            "overview": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
+            "popularity": 58.7306,
+            "poster_path": "/85CvGoeXAcSSWy6So2DRD8ItJAN.jpg",
+            "release_date": "2026-09-02",
+            "softcore": false,
+            "title": "By Any Means",
+            "video": false,
+            "vote_average": 6.548,
+            "vote_count": 62
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
+            "genre_ids": [
+                9648,
+                53
+            ],
+            "id": 1368166,
+            "original_language": "en",
+            "original_title": "The Housemaid",
+            "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+            "popularity": 60.6775,
+            "poster_path": "/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+            "release_date": "2025-12-18",
+            "softcore": false,
+            "title": "The Housemaid",
+            "video": false,
+            "vote_average": 7.253,
+            "vote_count": 3252
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/86IbFy98QjRIqg6WanKYb9tXNbJ.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "id": 24428,
+            "original_language": "en",
+            "original_title": "The Avengers",
+            "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+            "popularity": 54.2058,
+            "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+            "release_date": "2012-04-25",
+            "softcore": false,
+            "title": "The Avengers",
+            "video": false,
+            "vote_average": 8.082,
+            "vote_count": 40124
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 361743,
+            "original_language": "en",
+            "original_title": "Top Gun: Maverick",
+            "overview": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+            "popularity": 59.7535,
+            "poster_path": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+            "release_date": "2022-05-21",
+            "softcore": false,
+            "title": "Top Gun: Maverick",
+            "video": false,
+            "vote_average": 8.158,
+            "vote_count": 11769
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                878,
+                12
+            ],
+            "id": 1184918,
+            "original_language": "en",
+            "original_title": "The Wild Robot",
+            "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+            "popularity": 50.3365,
+            "poster_path": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+            "release_date": "2024-09-12",
+            "softcore": false,
+            "title": "The Wild Robot",
+            "video": false,
+            "vote_average": 8.308,
+            "vote_count": 6763
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+            "genre_ids": [
+                16,
+                12,
+                14
+            ],
+            "id": 791523,
+            "original_language": "en",
+            "original_title": "Wildwood",
+            "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+            "popularity": 57.8859,
+            "poster_path": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+            "release_date": "2026-10-19",
+            "softcore": false,
+            "title": "Wildwood",
+            "video": false,
+            "vote_average": 8.9,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oiwc338EoBgS4sEI2ixAny4KQKg.jpg",
+            "genre_ids": [
+                12,
+                14,
+                28
+            ],
+            "id": 120,
+            "original_language": "en",
+            "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+            "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+            "popularity": 61.8114,
+            "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+            "release_date": "2001-12-18",
+            "softcore": false,
+            "title": "The Lord of the Rings: The Fellowship of the Ring",
+            "video": false,
+            "vote_average": 8.448,
+            "vote_count": 28657
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 1228710,
+            "original_language": "en",
+            "original_title": "The Mandalorian and Grogu",
+            "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+            "popularity": 51.7723,
+            "poster_path": "/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg",
+            "release_date": "2026-05-20",
+            "softcore": false,
+            "title": "The Mandalorian and Grogu",
+            "video": false,
+            "vote_average": 7.463,
+            "vote_count": 1904
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "id": 122917,
+            "original_language": "en",
+            "original_title": "The Hobbit: The Battle of the Five Armies",
+            "overview": "Following Smaug's attack on Laketown, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
+            "popularity": 52.7912,
+            "poster_path": "/xT98tLqatZPQApyRmlPL12LtiWp.jpg",
+            "release_date": "2014-12-10",
+            "softcore": false,
+            "title": "The Hobbit: The Battle of the Five Armies",
+            "video": false,
+            "vote_average": 7.34,
+            "vote_count": 15896
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lvOLivVeX3DVVcwfVkxKf0R22D8.jpg",
+            "genre_ids": [
+                12,
+                14
+            ],
+            "id": 671,
+            "original_language": "en",
+            "original_title": "Harry Potter and the Philosopher's Stone",
+            "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+            "popularity": 53.6794,
+            "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+            "release_date": "2001-11-16",
+            "softcore": false,
+            "title": "Harry Potter and the Philosopher's Stone",
+            "video": false,
+            "vote_average": 7.905,
+            "vote_count": 30474
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fj0hwDJEOOHllRim2BMt5L7tbjf.jpg",
+            "genre_ids": [
+                80,
+                18,
+                28
+            ],
+            "id": 101,
+            "original_language": "fr",
+            "original_title": "Léon",
+            "overview": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
+            "popularity": 49.8201,
+            "poster_path": "/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg",
+            "release_date": "1994-09-14",
+            "softcore": false,
+            "title": "Léon: The Professional",
+            "video": false,
+            "vote_average": 8.289,
+            "vote_count": 16698
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yIwdIsM2Nr6EaiWy23mQqxvmoNh.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 1482547,
+            "original_language": "en",
+            "original_title": "Zip Wire",
+            "overview": "When her ground-breaking pharmaceutical discovery is stolen and partner murdered, researcher Amy must face her fear of heights to escape nefarious attackers, with the only path to salvation being a treacherous aerial runway. To outsmart the mysterious hostiles, she has to summon every ounce of courage to protect the world-changing scientific discovery — and herself — before it's too late.",
+            "popularity": 50.0328,
+            "poster_path": "/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg",
+            "release_date": "2026-08-31",
+            "softcore": false,
+            "title": "Zip Wire",
+            "video": false,
+            "vote_average": 7.337,
+            "vote_count": 89
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 278,
+            "original_language": "en",
+            "original_title": "The Shawshank Redemption",
+            "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+            "popularity": 55.8729,
+            "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+            "release_date": "1994-09-23",
+            "softcore": false,
+            "title": "The Shawshank Redemption",
+            "video": false,
+            "vote_average": 8.733,
+            "vote_count": 31651
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 155,
+            "original_language": "en",
+            "original_title": "The Dark Knight",
+            "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+            "popularity": 51.9688,
+            "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+            "release_date": "2008-07-16",
+            "softcore": false,
+            "title": "The Dark Knight",
+            "video": false,
+            "vote_average": 8.538,
+            "vote_count": 37047
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A7B3IkqqclUtQhL2ArJfJAS2DJ7.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1734379,
+            "original_language": "en",
+            "original_title": "A Mind in Chaos",
+            "overview": "After surviving a mass shooting at her office, a former mean exec attends a secluded therapy retreat in the hopes of recovering, but when odd occurrences keep happening, she begins to suspect that something else is lurking in the shadows.",
+            "popularity": 62.2992,
+            "poster_path": "/avlBHgpxYofl3CQ5ewVa9NbAxWq.jpg",
+            "release_date": "2025-09-12",
+            "softcore": false,
+            "title": "A Mind in Chaos",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zuYEvft5fuzBDOeq4ClYpiu9LlO.jpg",
+            "genre_ids": [
+                12,
+                14
+            ],
+            "id": 672,
+            "original_language": "en",
+            "original_title": "Harry Potter and the Chamber of Secrets",
+            "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione's magical abilities and courage.",
+            "popularity": 49.4066,
+            "poster_path": "/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+            "release_date": "2002-11-13",
+            "softcore": false,
+            "title": "Harry Potter and the Chamber of Secrets",
+            "video": false,
+            "vote_average": 7.709,
+            "vote_count": 24271
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 1273221,
+            "original_language": "en",
+            "original_title": "Scary Movie",
+            "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+            "popularity": 51.7545,
+            "poster_path": "/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+            "release_date": "2026-06-03",
+            "softcore": false,
+            "title": "Scary Movie",
+            "video": false,
+            "vote_average": 6.337,
+            "vote_count": 2059
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1792914,
+            "original_language": "en",
+            "original_title": "Log 15",
+            "overview": "Driven to save her mother from Alzheimer's, a desperate woman documents her radical experiments to unlock the human mind, only to discover the footage she is recording is actively rewriting her own reality.",
+            "popularity": 62.1361,
+            "poster_path": "/6MqBwshl0Lu9a5ImgFbdBX7aA69.jpg",
+            "release_date": "",
+            "softcore": false,
+            "title": "Log 15",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 1001,
+    "total_results": 20001
+}

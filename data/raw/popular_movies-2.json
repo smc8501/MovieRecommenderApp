@@ -1,0 +1,416 @@
+{
+    "page": 2,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+            "genre_ids": [
+                10749,
+                14,
+                35
+            ],
+            "id": 1302904,
+            "original_language": "en",
+            "original_title": "Practical Magic 2",
+            "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+            "popularity": 142.1472,
+            "poster_path": "/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+            "release_date": "2026-09-09",
+            "softcore": false,
+            "title": "Practical Magic 2",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 274
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 1248832,
+            "original_language": "en",
+            "original_title": "Digger",
+            "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+            "popularity": 144.2905,
+            "poster_path": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+            "release_date": "2026-09-28",
+            "softcore": false,
+            "title": "Digger",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 447
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 1765072,
+            "original_language": "en",
+            "original_title": "You Can See Everything",
+            "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+            "popularity": 146.3064,
+            "poster_path": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+            "release_date": "2026-10-16",
+            "softcore": false,
+            "title": "You Can See Everything",
+            "video": false,
+            "vote_average": 8.8,
+            "vote_count": 30
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 1281331,
+            "original_language": "en",
+            "original_title": "The Social Reckoning",
+            "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+            "popularity": 139.0025,
+            "poster_path": "/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
+            "release_date": "2026-10-07",
+            "softcore": false,
+            "title": "The Social Reckoning",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 124
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1b0wNCRLYT3mGwvHyTEbqOk98Ix.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1375161,
+            "original_language": "en",
+            "original_title": "Don't Move",
+            "overview": "A church group's annual retreat turns deadly when they wander into the wrong part of the Ozark wilderness, and something starts picking them off one by one.  Suspicion falls on Ricky, the troublemaker of the group. But the real threat is far worse.  Deep in the forest, wrapped in a labyrinth of webs, the group is pursued by a terrifying prehistoric arachnid that hunts by vibration. When every step could be their last, they only have one choice: Don't Move.  It's up to Megan to hold what's left of the group together and get them out alive.",
+            "popularity": 112.4835,
+            "poster_path": "/uh0ZSdM8iOQgHwnUlhhanP8Dkl6.jpg",
+            "release_date": "2026-09-11",
+            "softcore": false,
+            "title": "Don't Move",
+            "video": false,
+            "vote_average": 5.172,
+            "vote_count": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                12
+            ],
+            "id": 1084244,
+            "original_language": "en",
+            "original_title": "Toy Story 5",
+            "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+            "popularity": 108.2164,
+            "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+            "release_date": "2026-06-17",
+            "softcore": false,
+            "title": "Toy Story 5",
+            "video": false,
+            "vote_average": 8.278,
+            "vote_count": 2689
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7RsPdXLDNugDIlwXPVeeprNfMx.jpg",
+            "genre_ids": [
+                27,
+                14,
+                9648
+            ],
+            "id": 1232569,
+            "original_language": "en",
+            "original_title": "Pinocchio: Unstrung",
+            "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
+            "popularity": 128.4033,
+            "poster_path": "/hJNdizFlxOW89edX3Rzr6OliSFI.jpg",
+            "release_date": "2026-07-22",
+            "softcore": false,
+            "title": "Pinocchio: Unstrung",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 140
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+            "genre_ids": [
+                878,
+                12
+            ],
+            "id": 1170608,
+            "original_language": "en",
+            "original_title": "Dune: Part Three",
+            "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+            "popularity": 109.9538,
+            "poster_path": "/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+            "release_date": "2026-12-15",
+            "softcore": false,
+            "title": "Dune: Part Three",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nrLVr8C2pkbOGwXKay2xrxvlHmh.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 1503762,
+            "original_language": "en",
+            "original_title": "Sense and Sensibility",
+            "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
+            "popularity": 122.2859,
+            "poster_path": "/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+            "release_date": "2026-09-23",
+            "softcore": false,
+            "title": "Sense and Sensibility",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 46
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 1294189,
+            "original_language": "en",
+            "original_title": "The Mongoose",
+            "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
+            "popularity": 121.6769,
+            "poster_path": "/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+            "release_date": "2026-10-29",
+            "softcore": false,
+            "title": "The Mongoose",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 1288069,
+            "original_language": "en",
+            "original_title": "Tenzing",
+            "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
+            "popularity": 103.1168,
+            "poster_path": "/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
+            "release_date": "2026-10-09",
+            "softcore": false,
+            "title": "Tenzing",
+            "video": false,
+            "vote_average": 8.31,
+            "vote_count": 145
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
+            "genre_ids": [
+                14,
+                16,
+                10751
+            ],
+            "id": 9479,
+            "original_language": "en",
+            "original_title": "The Nightmare Before Christmas",
+            "overview": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans.",
+            "popularity": 108.1266,
+            "poster_path": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+            "release_date": "1993-10-09",
+            "softcore": false,
+            "title": "The Nightmare Before Christmas",
+            "video": false,
+            "vote_average": 7.852,
+            "vote_count": 10786
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1e0KDRYKRPHiVNj8yQKYuU2jVyQ.jpg",
+            "genre_ids": [
+                878,
+                53
+            ],
+            "id": 1275779,
+            "original_language": "en",
+            "original_title": "Disclosure Day",
+            "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+            "popularity": 107.6157,
+            "poster_path": "/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+            "release_date": "2026-06-10",
+            "softcore": false,
+            "title": "Disclosure Day",
+            "video": false,
+            "vote_average": 7.444,
+            "vote_count": 3805
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+            "genre_ids": [
+                10751,
+                14,
+                35,
+                12
+            ],
+            "id": 1108427,
+            "original_language": "en",
+            "original_title": "Moana",
+            "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+            "popularity": 107.4465,
+            "poster_path": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+            "release_date": "2026-07-08",
+            "softcore": false,
+            "title": "Moana",
+            "video": false,
+            "vote_average": 7.501,
+            "vote_count": 953
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dgqBcgTzaUiSLvKJPDF9AbdFEMO.jpg",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "id": 1440050,
+            "original_language": "en",
+            "original_title": "The Breadwinner",
+            "overview": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
+            "popularity": 107.2055,
+            "poster_path": "/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
+            "release_date": "2026-05-29",
+            "softcore": false,
+            "title": "The Breadwinner",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 123
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3jA1wHHFl3lUcVdGXq4ZsBscHCU.jpg",
+            "genre_ids": [
+                14,
+                12,
+                10751
+            ],
+            "id": 1147572,
+            "original_language": "en",
+            "original_title": "Narnia: The Magician's Nephew",
+            "overview": "Two children discover a wood full of pools leading to other worlds. One takes them to a dead city beneath a dying sun, where they wake a queen who exterminated its population and accidentally bring her back to London.",
+            "popularity": 70.0281,
+            "poster_path": "/yrqR0qquy4JOfqZCsFJV7vJoOSh.jpg",
+            "release_date": "2027-02-10",
+            "softcore": false,
+            "title": "Narnia: The Magician's Nephew",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1339713,
+            "original_language": "en",
+            "original_title": "Obsession",
+            "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+            "popularity": 103.009,
+            "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+            "release_date": "2026-05-13",
+            "softcore": false,
+            "title": "Obsession",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 6269
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+            "genre_ids": [
+                878,
+                53
+            ],
+            "id": 755898,
+            "original_language": "en",
+            "original_title": "War of the Worlds",
+            "overview": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
+            "popularity": 102.5806,
+            "poster_path": "/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+            "release_date": "2025-07-29",
+            "softcore": false,
+            "title": "War of the Worlds",
+            "video": false,
+            "vote_average": 4.045,
+            "vote_count": 1179
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hBwfWpZMnto1w2YT9NgRj6WJi6I.jpg",
+            "genre_ids": [
+                878,
+                9648,
+                53
+            ],
+            "id": 1101383,
+            "original_language": "en",
+            "original_title": "The End of Oak Street",
+            "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+            "popularity": 94.712,
+            "poster_path": "/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
+            "release_date": "2026-08-12",
+            "softcore": false,
+            "title": "The End of Oak Street",
+            "video": false,
+            "vote_average": 7.091,
+            "vote_count": 2178
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/flo7Xmyxz2wDUjr5Ff0VrxaVwlY.jpg",
+            "genre_ids": [
+                27,
+                18,
+                53
+            ],
+            "id": 1339274,
+            "original_language": "es",
+            "original_title": "No dejes a los niños solos",
+            "overview": "A mother moves into a new house with her two children. One night she must leave the siblings home alone. What begins as a blast of carefree play soon turns into a claustrophobic horror story.",
+            "popularity": 91.8801,
+            "poster_path": "/7kaglo9sblVsQrKsUqaVxrfc6ag.jpg",
+            "release_date": "2026-05-14",
+            "softcore": false,
+            "title": "Don't Leave the Kids Alone",
+            "video": false,
+            "vote_average": 6.828,
+            "vote_count": 151
+        }
+    ],
+    "total_pages": 1001,
+    "total_results": 20001
+}
