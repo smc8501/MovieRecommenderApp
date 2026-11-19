@@ -1,30 +1,50 @@
+"""Client for fetching and validating JSON data from external HTTP APIs.
+
+This module loads environment configuration, sends HTTP requests to external
+endpoints, and validates the resulting JSON payloads against defined schemas.
+
+"""
 import os
+import json
 import requests
 from dotenv import load_dotenv
-import json
-import jsonschema
 from jsonschema import validate
 from jsonschema.exceptions import ValidationError, SchemaError
 
 
 load_dotenv()
 
+
 access_token = os.getenv('TMDB_READ_ACCESS_TOKEN')
 api_key = os.getenv('TMDB_API_KEY')
-base_url = "https://api.themoviedb.org/3"
+BASE_URL = "https://api.themoviedb.org/3"
 
 
-def getPopularMovies(url, headers, page):
+
+def get_genre_id():
+    """This is a function to pull genre data from the TMDB API"""
+    response = requests.get(
+        url=f"{BASE_URL}/genre/movie/list",
+        headers={
+            "accept": "application/json",
+            "Authorization": f"Bearer {access_token}"
+        },
+        timeout=30
+    )
+
+    return response.json()
+def get_popular_movies(url, headers, page):
+    """This is a fuction that pulls popular movies from the TMDB API"""
     response = requests.get(
         url=url,
         headers=headers,
         params={"language": "en-US", "sort_by": "popularity.desc", "page": page},
         timeout=30
-    )        
-
-    return response.json()  
+    )
+    return response.json()
 
 def validate_movie_data(page, schema):
+    """Checks for missing values and correct columns when data is pulled"""
     filename = f"popular_movies-{page}.json"
 
     try:
@@ -33,8 +53,6 @@ def validate_movie_data(page, schema):
             data = json.load(file)
 
         validate(instance=data, schema=schema)
-
-        
         print(f"{filename} passed validation")
         return True
     except FileNotFoundError:
@@ -49,12 +67,8 @@ def validate_movie_data(page, schema):
 
     return False
 
-
-        
-
-    
-
 def main():
+    """This is the main function."""
 
     movie_schema = {
        "title": "MovieListResponse",
@@ -93,55 +107,66 @@ def main():
            }
        }
     }
-    url = f"{base_url}/movie/popular"
-    headers = {
-        "accept": "application/json",
-        "Authorization": f"Bearer {access_token}"
+
+    genre_schema = {
+        "title": "Genre_list",
+        "type": "object",
+        "required": ["genres"],
+        "properties": {
+            "genres": {"type": "array", "items": {
+                "type": "object",
+                "required": [
+                    "id",
+                    "name"
+                ],
+                "properties": {
+                    "id": {"type": "integer"},
+                    "name": {"type": "string"}
+                }
+            }}
+        }
     }
-    page = 1
-    max_pages = 5
+    # url = f"{BASE_URL}/movie/popular"
+    # headers = {
+    #     "accept": "application/json",
+    #     "Authorization": f"Bearer {access_token}"
+    # }
+    # page = 1
+    # max_pages = 5
 
-    while page <= max_pages:
-        try:
-            data = getPopularMovies(url, headers, page)
-            with open(f'data/raw/popular_movies-{page}.json', 'w', encoding='utf-8') as f:
-                json.dump(data, f, ensure_ascii=False, sort_keys=True, indent=4)
-            validate_movie_data(page, movie_schema)
+    # while page <= max_pages:
+    #     try:
+    #         data = get_popular_movies(url, headers, page)
+    #         with open(f'data/raw/popular_movies-{page}.json', 'w', encoding='utf-8') as f:
+    #             json.dump(data, f, ensure_ascii=False, sort_keys=True, indent=4)
+    #         validate_movie_data(page, movie_schema)
 
-        except requests.exceptions.HTTPError as http_err:
-            print(f"HTTP error ocurred: {http_err}")
-        except requests.exceptions.JSONDecodeError:
-            print("Error: Response is not a valid JSON string.")
-        except requests.exceptions.RequestException as e:
-            print(f"Network/request failure on page {page}: {e}")
+    #     except requests.exceptions.HTTPError as http_err:
+    #         print(f"HTTP error ocurred: {http_err}")
+    #     except requests.exceptions.JSONDecodeError:
+    #         print("Error: Response is not a valid JSON string.")
+    #     except requests.exceptions.RequestException as e:
+    #         print(f"Network/request failure on page {page}: {e}")
 
-        page += 1
+    #     page += 1
 
+    try:
+        genre_data = get_genre_id()
+        with open('data/raw/genre_list.json', 'w', encoding='utf-8') as g:
+            json.dump(genre_data, g, ensure_ascii=False, sort_keys=True, indent=4)
 
+        with open('data/raw/genre_list.json', 'r', encoding='utf-8') as genre_list:
+            genre_data = json.load(genre_list)
+            validate(instance=genre_data, schema=genre_schema)
+
+            print("Validation successfull")
+
+    except requests.exceptions.HTTPError as http_err:
+        print(f"HTTP error ocurred: {http_err}")
+    except requests.exceptions.JSONDecodeError:
+        print("Error: Response is not a valid JSON string.")
+    except requests.exceptions.RequestException as e:
+        print(f"Network/request failure {e}")
 
 if __name__ == "__main__":
     main()
-    
-                 
-            
-
-    
-    
-    
-
-    
-
-
-    
-
-    
-       
-
-
-        
-
-   
-
-
-  
-
