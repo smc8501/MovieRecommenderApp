@@ -3,5 +3,4 @@
 .vscode/
 __pycache__/
 .pytest_cache/
-data/raw/
-.db
+*.duckdb
