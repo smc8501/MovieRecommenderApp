@@ -20,8 +20,8 @@ The MovieRecommender app helps people decide what to watch. Users browse trendin
 
 ### Tech Stack
 |Layer        |Choice              |Why                                            |
-|:------------|:------------------:|----------------------------------------------:|
-| Frontend    | ReactJS and MUI    | Building cleaner components and reusable code.|
+|:------------|:-------------------|:----------------------------------------------|
+| Frontend    | ReactJS and MUI    | Building cleaner components and reusable code |
 | Backend     | NodeJS and Express | To create the backend server                  |
 | Data source | TMDB API           | Free rich metadata, built-in recommendations  |
 | Storage     | DuckDB             | Unit tests for the recommendation function    |
