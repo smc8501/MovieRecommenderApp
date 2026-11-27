@@ -10,3 +10,10 @@ The MovieRecommender app helps people decide what to watch. Users browse trendin
 **Problem:** Choosing a movie takes too long. Huge catalogs, and generic "popular" lists don't reflect personal taste.
 **Goal:** Let a user get a useful short lsit of movies in under a minute, wiht no sign-up required for now.
 **Personal Goal:** Ship a deployed, well-documented portfolio project that demonstratesAPI integration, clean code and basic testing.
+
+### Core Features:
+1. Show trending and popular movies from TMDB
+2. Search by title
+3. Movie detail page (with a 'similar movies' row)
+4. A heart button to save favorites
+5. A 'Recommended for you' row built from the favorites' list.
