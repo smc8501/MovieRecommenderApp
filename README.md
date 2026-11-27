@@ -27,3 +27,8 @@ The MovieRecommender app helps people decide what to watch. Users browse trendin
 | Storage     | DuckDB             | Unit tests for the recommendation function    |
 | Hosting     | Netlify            | Free tier                                     |
 
+### Future Implementations
+* User accounts and cloud-synced lists
+* Star ratings and a taste quiz.
+* Advanced filters (genre, year, runtime).
+* Machine Learning models, group mode, social features.
